@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/avr-gcc",
+      "-Os",
+      "-DF_CPU=16000000UL",
+      "-mmcu=atmega328p",
+      "-c",
+      "-o",
+      "led-blink.o",
+      "led-blink.c"
+    ],
+    "directory": "/home/hggmarks/projects/baremetals/arduino-c/arduino-uno",
+    "file": "/home/hggmarks/projects/baremetals/arduino-c/arduino-uno/led-blink.c",
+    "output": "/home/hggmarks/projects/baremetals/arduino-c/arduino-uno/led-blink.o"
+  }
+]
